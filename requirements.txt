@@ -1,0 +1,4 @@
+# Usage:
+# pip install -t python_packages -r requirements.txt
+
+django==1.7
